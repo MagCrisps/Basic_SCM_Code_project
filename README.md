@@ -1,1 +1,1 @@
-My_SCMptoject
+Basic_SCM_Code_project
